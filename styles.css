@@ -1,0 +1,5 @@
+/*Style for 3rd child in unordered list*/
+
+li:nth-child(3) {
+    background: blue;
+}
